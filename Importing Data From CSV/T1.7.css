@@ -1,0 +1,22 @@
+svg > rect {
+  fill: rgb(8, 151, 166);
+}
+
+.line {
+	fill: none;
+	stroke: blue ;
+	stroke-width: 0.5;
+}
+
+line.halfMilMark {
+	fill: none;
+	stroke: red;
+	stroke-dasharray: 10, 5;
+}
+
+text.halfMilLabel {
+	fill: red;
+}
+
+a {
+color: green;}
